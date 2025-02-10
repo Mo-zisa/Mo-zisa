@@ -30,4 +30,4 @@ You can check out my repositories where I showcase my projects involving:
 ## 🤝 Let’s Connect!
 I’m always open to collaborating on data analysis projects or learning new techniques. Feel free to reach out if you'd like to discuss interesting data-driven ideas or have a project you’d like to collaborate on.
 
-- 📧 Email: [mozisa@ttu.ee](mailto:mozisa@ttu.ee)
+- 📧 Email: [zisanmohammad19@gmail.com](mailto:zisanmohammad19@gmail.com)
